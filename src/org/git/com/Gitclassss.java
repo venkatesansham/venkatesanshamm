@@ -8,6 +8,6 @@ public class Gitclassss {
 		private void mano() {
 			System.out.println("mano's code-------------");
 			System.out.println("gomuuu code----------");
-System.out.println("nandhu's code-------------"+"venky code 22222");System.out.println("ddddddddddd-------");System.out.println("dddddddddddrrrrrrrrrd-------");nadhu
+System.out.println("nandhu's code-------------"+"venky code 22222");System.out.println("ddddddddddd-------");System.out.println("dddddddddddrrrrrrrrrd-------");System.out.println("nandhuSystem.out.println(\"ddddddddddd-------\");");
 		}
 }
