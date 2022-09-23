@@ -7,6 +7,7 @@ public class Gitclassss {
 		}
 		private void mano() {
 			System.out.println("mano's code-------------");
+			System.out.println("gomuuu code----------");
 System.out.println("nandhu's code-------------");
 		}
 }
